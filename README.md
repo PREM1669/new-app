@@ -1,2 +1,2 @@
-This is the descrittion
+This is the descrription
 
